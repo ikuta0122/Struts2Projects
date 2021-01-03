@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/02-UseMaven" />
+    <file type="web" url="file://$PROJECT_DIR$/03-CatchServletAPI" />
+    <file type="web" url="file://$PROJECT_DIR$/04-OGNL" />
+    <file type="web" url="file://$PROJECT_DIR$/05-ValueStack" />
+    <file type="web" url="file://$PROJECT_DIR$/06-OgnlCollection" />
+    <file type="web" url="file://$PROJECT_DIR$/07-DynamicMethodInvocation" />
+    <file type="web" url="file://$PROJECT_DIR$/07-WildcardAction" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02-UseMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/03-CatchServletAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/04-OGNL/pom.xml" />
+        <option value="$PROJECT_DIR$/05-ValueStack/pom.xml" />
+        <option value="$PROJECT_DIR$/06-OgnlCollection/pom.xml" />
+        <option value="$PROJECT_DIR$/07-DynamicMethodInvocation/pom.xml" />
+        <option value="$PROJECT_DIR$/07-WildcardAction/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
